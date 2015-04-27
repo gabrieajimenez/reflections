@@ -13,3 +13,6 @@ two different projects that start has one but split.
 
 How do the diagrams help you visualize the branch structure?
 yes it helps to understand how to work with branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+we have a new branch with both changes. we represent it to understand how the changes are applied.
